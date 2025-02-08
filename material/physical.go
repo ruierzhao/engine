@@ -74,7 +74,7 @@ func (m *Physical) SetRoughnessFactor(v float32) *Physical {
 }
 
 // SetEmissiveFactor sets the emissive color of the material.
-// Its default is {1, 1, 1}.
+// Its default is {0, 0, 0, 1}.
 // Returns pointer to this updated material.
 func (m *Physical) SetEmissiveFactor(c *math32.Color) *Physical {
 
