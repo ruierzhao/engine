@@ -15,7 +15,8 @@ import (
 func NewDarkStyle() *Style {
 
 	// Fonts to use
-	const textFont = "fonts/FreeSans.ttf"
+	//const textFont = "fonts/FreeSans.ttf"
+	const textFont = "fonts/Alibaba-PuHuiTi-Regular.ttf"
 	const iconFont = "fonts/MaterialIcons-Regular.ttf"
 	s := new(Style)
 

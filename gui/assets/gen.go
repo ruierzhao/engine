@@ -6,3 +6,4 @@ package assets
 
 //go:generate go-bindata -o data.go -pkg assets fonts cursors
 //go:generate g3nicodes -pkg icon icon/codepoints icon/icodes.go
+//FreeMono.ttf FreeSans.ttf FreeSansBold.ttf MaterialIcons-Regular.ttf

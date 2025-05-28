@@ -36,7 +36,7 @@ func App(width, height int, title string) *Application {
 		return a
 	}
 	a = new(Application)
-	// Initialize window
+	// 初始化glfw 窗口
 	err := window.Init(width, height, title)
 	if err != nil {
 		panic(err)
