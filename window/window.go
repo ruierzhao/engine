@@ -9,9 +9,9 @@ package window
 import (
 	"fmt"
 
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/util/logger"
+	"github.com/ruierzhao/engine/core"
+	"github.com/ruierzhao/engine/gls"
+	"github.com/ruierzhao/engine/util/logger"
 )
 
 // Package logger

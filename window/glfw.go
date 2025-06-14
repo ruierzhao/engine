@@ -15,10 +15,10 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/gui/assets"
 	"github.com/go-gl/glfw/v3.3/glfw"
+	"github.com/ruierzhao/engine/core"
+	"github.com/ruierzhao/engine/gls"
+	"github.com/ruierzhao/engine/gui/assets"
 )
 
 // Keycodes

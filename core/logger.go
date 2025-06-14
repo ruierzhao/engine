@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/g3n/engine/util/logger"
+	"github.com/ruierzhao/engine/util/logger"
 )
 
 // Package logger

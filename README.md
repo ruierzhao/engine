@@ -108,19 +108,19 @@ The code below is a basic "hello world" application ([hellog3n](https://github.c
 package main
 
 import (
-	"github.com/g3n/engine/app"
-	"github.com/g3n/engine/camera"
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/gui"
-	"github.com/g3n/engine/light"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/renderer"
-	"github.com/g3n/engine/util/helper"
-	"github.com/g3n/engine/window"
+	"github.com/ruierzhao/engine/app"
+	"github.com/ruierzhao/engine/camera"
+	"github.com/ruierzhao/engine/core"
+	"github.com/ruierzhao/engine/geometry"
+	"github.com/ruierzhao/engine/gls"
+	"github.com/ruierzhao/engine/graphic"
+	"github.com/ruierzhao/engine/gui"
+	"github.com/ruierzhao/engine/light"
+	"github.com/ruierzhao/engine/material"
+	"github.com/ruierzhao/engine/math32"
+	"github.com/ruierzhao/engine/renderer"
+	"github.com/ruierzhao/engine/util/helper"
+	"github.com/ruierzhao/engine/window"
 	"time"
 )
 
@@ -203,8 +203,8 @@ The complete engine API reference can be found here: [![GoDoc](https://godoc.org
 
 There is also the beginning of a Getting Started Guide, and a newly created list of Guides and Tutorials:
 
-* [Getting Started](https://github.com/g3n/engine/wiki/Getting-Started-(WIP))
-* [Guides and Tutorials](https://github.com/g3n/engine/wiki/Guides-and-Tutorials)
+* [Getting Started](https://github.com/ruierzhao/engine/wiki/Getting-Started-(WIP))
+* [Guides and Tutorials](https://github.com/ruierzhao/engine/wiki/Guides-and-Tutorials)
 
 Along with those, a good way to learn how to use the engine is to see the source code of [G3ND - the G3N demo](https://github.com/g3n/g3nd).
   

@@ -5,8 +5,8 @@
 package gui
 
 import (
-	"github.com/g3n/engine/math32"
-	"github.com/g3n/engine/window"
+	"github.com/ruierzhao/engine/math32"
+	"github.com/ruierzhao/engine/window"
 )
 
 // Scroller is the GUI element that allows scrolling of a target IPanel.

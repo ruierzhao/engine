@@ -7,8 +7,8 @@ package geometry
 import (
 	"math"
 
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/math32"
+	"github.com/ruierzhao/engine/gls"
+	"github.com/ruierzhao/engine/math32"
 )
 
 // NewCone creates a cone geometry with the specified base radius, height,

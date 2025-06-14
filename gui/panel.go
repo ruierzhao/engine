@@ -5,12 +5,12 @@
 package gui
 
 import (
-	"github.com/g3n/engine/core"
-	"github.com/g3n/engine/geometry"
-	"github.com/g3n/engine/gls"
-	"github.com/g3n/engine/graphic"
-	"github.com/g3n/engine/material"
-	"github.com/g3n/engine/math32"
+	"github.com/ruierzhao/engine/core"
+	"github.com/ruierzhao/engine/geometry"
+	"github.com/ruierzhao/engine/gls"
+	"github.com/ruierzhao/engine/graphic"
+	"github.com/ruierzhao/engine/material"
+	"github.com/ruierzhao/engine/math32"
 )
 
 /*********************************************
